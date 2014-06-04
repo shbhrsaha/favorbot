@@ -1,0 +1,5 @@
+username: TWITTER_USERNAME ("exampletwitter")
+password: PASSWORD ("password")
+query: SEARCH_QUERY ("lol")
+num_favorite: NUM_TWEETS_TO_FAVORITE_EACH_INTERVAL (10)
+wait_period: NUM_SECONDS_TO_WAIT (3600)

@@ -1,0 +1,4 @@
+PyYAML==3.11
+selenium==2.42.1
+splinter==0.6.0
+wsgiref==0.1.2
